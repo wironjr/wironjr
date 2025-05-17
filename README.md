@@ -1,11 +1,5 @@
 <h1 align="center">Olá! Eu sou o Wiron 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/wironjr">
-    <img src="https://readme-stats.vercel.app/api?username=wironjr&show_icons=true&count_private=true&hide_title=true" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Tecnologias que uso no dia a dia
