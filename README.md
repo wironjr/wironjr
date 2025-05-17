@@ -1,35 +1,62 @@
-<h1 align="center">Olá! Eu sou o Wiron 👋</h1>
+<h1 align="center">Salve! Eu sou o Wiron 👨‍💻</h1>
+<h3 align="center">Desenvolvedor full stack apaixonado por soluções web e mobile</h3>
+
+<p align="center">
+  <a href="https://github.com/wironjr">
+    <img src="https://komarev.com/ghpvc/?username=wironjr&style=flat-square&color=blue" alt="visitas" />
+  </a>
+  <a href="https://linkedin.com/in/wironjr">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/wironjr">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
+### 🚀 Tech Stack
 
-<div style="display: inline_block">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wironjr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wironjr&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wironjr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wironjr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
 
-### 🌐 Vamos nos conectar!
+### 🧠 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wironjr)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wironjr)
+- 🔭 Atualmente trabalhando com projetos web (Rails) e mobile (React Native)
+- ⚙️ Gosto de APIs, automações, integrações e boas arquiteturas
+- 💬 Me pergunte sobre Ruby on Rails, React Native, PostgreSQL e integração de sistemas
+- 📫 Contato: **wironjr.dev@gmail.com**
 
 ---
 
-📌 *Desenvolvedor focado em soluções web com Ruby on Rails, React Native, automações e APIs.*
+### ⚡ Atividade recente
+
+<!--START_SECTION:activity-->
+<!-- Desativado, pode ativar com GitHub Actions ou deixar como está -->
+<!--END_SECTION:activity-->
+
+---
+
+### 🐍 Snake Contribution (Animação)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
