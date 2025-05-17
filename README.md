@@ -32,7 +32,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wironjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?      username=wironjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wironjr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -43,19 +43,11 @@
 - 🔭 Atualmente trabalhando com projetos web (Rails) e mobile (React Native)
 - ⚙️ Gosto de APIs, automações, integrações e boas arquiteturas
 - 💬 Me pergunte sobre Ruby on Rails, React Native, PostgreSQL e integração de sistemas
-- 📫 Contato: **wironjr.dev@gmail.com**
+- 📫 Contato: **jun1n_@live.com**
 
 ---
 
-### ⚡ Atividade recente
-
-<!--START_SECTION:activity-->
-<!-- Desativado, pode ativar com GitHub Actions ou deixar como está -->
-<!--END_SECTION:activity-->
-
----
-
-### 🐍 Snake Contribution (Animação)
+### Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
